@@ -2,4 +2,4 @@
 
 Programlama dersinde yapılmış basit c ve c++ örnekleri.
 
-Simple c and c ++ examples made in programming lesson.
+Simple c and c ++ examples made in programming language
